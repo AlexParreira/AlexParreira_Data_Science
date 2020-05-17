@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Alexander PArreira
+# Alexander Parreira
 <sub>*Programming Teacher * at SuperGeeks </sub>
 
 
