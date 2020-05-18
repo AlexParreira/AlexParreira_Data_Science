@@ -5,7 +5,8 @@
 </p>
 
 <h1> Alexander Parreira</h1>
-<small><sup ><i>Programming Teacher</i> at SuperGeeks </sup></small>
+<sup><i>Programming Teacher</i> at SuperGeeks </sup>
+
 <br>
 <br>
 <br>
