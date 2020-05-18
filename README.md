@@ -20,7 +20,7 @@
 ## Projetos:
 
 
-* **<a href="https://bit.ly/368Zvva">Titanic: Machine Learning from Disaster.
+* <a href="https://bit.ly/368Zvva">Titanic: Machine Learning from Disaster.</a>
 * **
 * **
 * **
