@@ -5,7 +5,7 @@
 </p>
 
 # Alexander Parreira
-<sub>*Programming Teacher * at SuperGeeks </sub>
+<sub>*Programming Teacher* at SuperGeeks </sub>
 
 
 
