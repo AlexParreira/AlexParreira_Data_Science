@@ -6,14 +6,15 @@
 
 # Alexander Parreira
 <sub>*Programming Teacher* at SuperGeeks </sub>
-
+Sou um profissional com graduação em curso de Análise e desenvolvimento de sistemas pela INFNET, inglês Básico/Técnico e
+destacada experiência 1 ano e meio, atuando na Supergeeks com Instrutor de programação e Robótica, ensinando jovens e adolescentes programação. Busco novos desafios como na área de Data Science que será minho meu foco maior daqui para frente.
 
 
 **Background in:** Python, Django, Machine Learning.
 
 **Links:**
 * [Blog]()
-* [LinkedIn](https://www.linkedin.com/)
+* [LinkedIn](https://www.linkedin.com/in/alexander-parreira-197244bb/edit/about/)
 
 
 
