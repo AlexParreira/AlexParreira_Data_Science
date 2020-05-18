@@ -4,9 +4,10 @@
   <img src="banner.jpg" >
 </p>
 
-# Alexander Parreira
+<h2> Alexander Parreira</h2>
 <sub>*Programming Teacher* at SuperGeeks </sub>
 <br>
+<hr>
 Sou um profissional com graduação em curso de Análise e desenvolvimento de sistemas pela INFNET, inglês Básico/Técnico e
 destacada experiência 1 ano e meio, atuando na Supergeeks com Instrutor de programação e Robótica, ensinando jovens e adolescentes programação. Busco novos desafios como na área de Data Science que será minho meu foco maior daqui para frente.
 
