@@ -26,6 +26,7 @@ destacada experiência 1 ano e meio, atuando na Supergeeks com Instrutor de prog
 
 
 * <a href="https://bit.ly/368Zvva">Titanic: Machine Learning from Disaster.</a>
+* <a href="https://bit.ly/3fUMYzY">Pokemon: Train Machine learning .</a>
 * 
 * 
 * 
